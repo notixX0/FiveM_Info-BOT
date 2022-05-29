@@ -1,0 +1,17 @@
+{
+    "URL_SERVER": "Szervered IP-je + port",  -- PL: http://00.00.00.000:00000
+    "SERVER_NAME": "Szervered Neve",
+    "SERVER_LOGO": "https://imgur.com/oHouJ74.png",
+    "EMBED_COLOR": "#b434eb",
+    "LOG_LEVEL": "2",
+    "PERMISSION": "MANAGE_MESSAGES",
+    "BOT_TOKEN": "",
+    "CHANNEL_ID": "960148221810839649",  -- Ahova beküldi az üzenetet.
+    "MESSAGE_ID": "960148221810839649", -- Ahova beküldi az üzenetet.
+    "SUGGESTION_CHANNEL": "960576048960012358",  -- Ez legyen egy privát szoba, ha nem szeretnéd haszáni.
+    "BUG_CHANNEL": "960576048960012358", --Ez legyen egy privát szoba
+    "BUG_LOG_CHANNEL": "960576048960012358", --Ez legyen egy privát szoba
+    "LOG_CHANNEL": "960576048960012358", --Ez legyen egy privát szoba
+    "SERVER_IP": "Szervered IP-cime",
+    "RESTART_TIMES": "12:00, 18:00, 02:00" -- Ha ki akarod iratni vele az automatikus restartokat. Ha nem akkor ne irj semmit ide!
+  }

@@ -1,0 +1,17 @@
+{
+    "URL_SERVER": "",
+    "SERVER_NAME": "Szervered Neve",
+    "SERVER_LOGO": "https://imgur.com/oHouJ74.png",
+    "EMBED_COLOR": "#b434eb",
+    "LOG_LEVEL": "2",
+    "PERMISSION": "MANAGE_MESSAGES",
+    "BOT_TOKEN": "",
+    "CHANNEL_ID": "",
+    "MESSAGE_ID": "",
+    "SUGGESTION_CHANNEL": "",
+    "BUG_CHANNEL": "",
+    "BUG_LOG_CHANNEL": "",
+    "LOG_CHANNEL": "",
+    "SERVER_IP": "",
+    "RESTART_TIMES": "12:00, 18:00, 02:00"
+  }
